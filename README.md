@@ -1,6 +1,6 @@
 # Sample Grid
 
-<table border="1" align="center" width="500" height="400">
+<table align="center" width="500">
   <tr>
     <td align="center" ><a href="https://www.typescriptlang.org/vops"><img src="images/typescript.png" width="70px;" height="75px;" alt="TypeScript" /><br /><b><font color="#777"> TypeScript</font></b></a></td>
     <td align="center"><a href="https://nextjs.org/"><img src="images/nextjs.png" width="70px;" height="75px;" alt="Next JS"/><br /><b><font color="#777"> NextJs</font></b></a></td>
