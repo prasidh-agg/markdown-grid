@@ -1,5 +1,5 @@
-# Sample Grid
 
+# Sample Grid
 <table align="center" width="500">
   <tr>
     <td align="center" ><a href="https://www.typescriptlang.org/vops"><img src="images/typescript.png" width="70px;" height="75px;" alt="TypeScript" /><br /><b><font color="#777"> TypeScript</font></b></a></td>
